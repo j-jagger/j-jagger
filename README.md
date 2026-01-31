@@ -2,6 +2,6 @@
 # Hello, I'm Joe.
 
 I'm a British amateur programmer / administrator, with heavy experience in Python, JavaScript, Bash, and HTML/CSS, if those count.
-I also have experience in Proxmox VE, Windows Server, General UNIX operations, and I'm in the progress of learning C++, Rust, and on the side, C + C#.
+I also have experience in Proxmox VE, Windows Server, General UNIX operations, and I'm in the progress of learning Java.
 
 For more on me, check out my website @ https://jjagger.wsys.day
