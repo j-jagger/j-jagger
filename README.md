@@ -1,4 +1,7 @@
+# I no longer use GitHub. Find me at:
+https://gitlab.com/joejagger
 
+Old Description:
 # Hello, I'm Joe.
 
 I'm a British amateur programmer / administrator, with heavy experience in Python, JavaScript, Bash, and HTML/CSS, if those count.
